@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="src/YomiLite.App/YomiLite.App.csproj" />
+  <Project Path="src/YomiLite.Core/YomiLite.Core.csproj" Id="9e1e4e2f-5250-4e40-b079-a720e282d5dc" />
+  <Project Path="src/YomiLite.Rendering/YomiLite.Rendering.csproj" Id="a6ee4e9b-35f8-4940-b258-baa85e1c35d2" />
+  <Project Path="tests/YomiLite.Core.Tests/YomiLite.Core.Tests.csproj" Id="87a28bb9-9409-4144-bf28-9aaf14d7f6ec" />
+</Solution>
